@@ -19,6 +19,7 @@
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
+        "legacy": true,
         "taxable": true,
         "testnet": false
     },
@@ -42,6 +43,7 @@
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
+        "legacy": true,
         "taxable": true,
         "testnet": true
     },
@@ -65,6 +67,7 @@
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
+        "legacy": true,
         "taxable": true,
         "testnet": true
     },
@@ -88,6 +91,7 @@
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
+        "legacy": false,
         "taxable": false,
         "testnet": false
     },
@@ -111,6 +115,7 @@
         "gasPrices": {
             "fcd": "/v1/txs/gas_prices" 
         },
+        "legacy": false,
         "taxable": false,
         "testnet": true
     }
