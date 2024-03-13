@@ -46,13 +46,13 @@
         "chainId": "octagon-1",
         "endpoints": {
             "lcd": [
-                "https://lcd.terra-classic.hexxagon.dev/"
+                "https://lcd.terra-classic.hexxagon.dev"
             ],
             "fcd": [
-                "https://fcd.terra-classic.hexxagon.dev/"
+                "https://fcd.terra-classic.hexxagon.dev"
             ],
             "rpc": [
-                "https://rpc.terra-classic.hexxagon.dev/"
+                "https://rpc.terra-classic.hexxagon.dev"
             ]
         },
         "testnet": true
