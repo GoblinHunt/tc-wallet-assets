@@ -24,6 +24,7 @@
         "testnet": false
     },
     "rebel-2": {
+        "inheritChain": "columbus-5",
         "name": "Terra Classic Testnet",
         "chainId": "rebel-2",
         "endpoints": {
@@ -37,17 +38,10 @@
                 "https://rpc.luncblaze.com"
             ]
         },
-        "prefix": "terra",
-        "governanceToken": "uluna",
-        "operatorPrefix": "terravaloper",
-        "gasPrices": {
-            "fcd": "/v1/txs/gas_prices" 
-        },
-        "legacy": true,
-        "taxable": true,
         "testnet": true
     },
     "octagon-1": {
+        "inheritChain": "columbus-5",
         "name": "Terra Classic Testnet Hexxagon",
         "chainId": "octagon-1",
         "endpoints": {
@@ -61,14 +55,6 @@
                 "https://rpc.terra-classic.hexxagon.dev/"
             ]
         },
-        "prefix": "terra",
-        "governanceToken": "uluna",
-        "operatorPrefix": "terravaloper",
-        "gasPrices": {
-            "fcd": "/v1/txs/gas_prices" 
-        },
-        "legacy": true,
-        "taxable": true,
         "testnet": true
     },
     "phoenix-1": {
@@ -96,6 +82,7 @@
         "testnet": false
     },
     "pisco-1": {
+        "inheritChain": "phoenix-1",
         "name": "Terra V2 Testnet",
         "chainId": "pisco-1",
         "endpoints": {
@@ -109,14 +96,6 @@
                 "https://pisco-rpc.terra.dev"
             ]
         },
-        "prefix": "terra",
-        "governanceToken": "uluna",
-        "operatorPrefix": "terravaloper",
-        "gasPrices": {
-            "fcd": "/v1/txs/gas_prices" 
-        },
-        "legacy": false,
-        "taxable": false,
         "testnet": true
     }
 }
