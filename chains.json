@@ -1,0 +1,117 @@
+{
+    "columbus-5": {
+        "name": "Terra Classic",
+        "chainId": "columbus-5",
+        "endpoints": {
+            "lcd": [
+                "https://terra-classic-lcd.publicnode.com"
+            ],
+            "fcd": [
+                "https://terra-classic-fcd.publicnode.com"
+            ],
+            "rpc": [
+                "https://terra-classic-rpc.publicnode.com"
+            ]
+        },
+        "prefix": "terra",
+        "governanceToken": "uluna",
+        "operatorPrefix": "terravaloper",
+        "gasPrices": {
+            "fcd": "/v1/txs/gas_prices" 
+        },
+        "taxable": true,
+        "testnet": false
+    },
+    "rebel-2": {
+        "name": "Terra Classic Testnet",
+        "chainId": "rebel-2",
+        "endpoints": {
+            "lcd": [
+                "https://lcd.luncblaze.com"
+            ],
+            "fcd": [
+                "https://terra-classic-fcd.publicnode.com"
+            ],
+            "rpc": [
+                "https://rpc.luncblaze.com"
+            ]
+        },
+        "prefix": "terra",
+        "governanceToken": "uluna",
+        "operatorPrefix": "terravaloper",
+        "gasPrices": {
+            "fcd": "/v1/txs/gas_prices" 
+        },
+        "taxable": true,
+        "testnet": true
+    },
+    "octagon-1": {
+        "name": "Terra Classic Testnet Hexxagon",
+        "chainId": "octagon-1",
+        "endpoints": {
+            "lcd": [
+                "https://lcd.terra-classic.hexxagon.dev/"
+            ],
+            "fcd": [
+                "https://fcd.terra-classic.hexxagon.dev/"
+            ],
+            "rpc": [
+                "https://rpc.terra-classic.hexxagon.dev/"
+            ]
+        },
+        "prefix": "terra",
+        "governanceToken": "uluna",
+        "operatorPrefix": "terravaloper",
+        "gasPrices": {
+            "fcd": "/v1/txs/gas_prices" 
+        },
+        "taxable": true,
+        "testnet": true
+    },
+    "phoenix-1": {
+        "name": "Terra V2",
+        "chainId": "phoenix-1",
+        "endpoints": {
+            "lcd": [
+                "https://terra-lcd.publicnode.com"
+            ],
+            "fcd": [
+                "https://phoenix-fcd.terra.dev"
+            ],
+            "rpc": [
+                "https://terra-rpc.publicnode.com"
+            ]
+        },
+        "prefix": "terra",
+        "governanceToken": "uluna",
+        "operatorPrefix": "terravaloper",
+        "gasPrices": {
+            "fcd": "/v1/txs/gas_prices" 
+        },
+        "taxable": false,
+        "testnet": false
+    },
+    "pisco-1": {
+        "name": "Terra V2 Testnet",
+        "chainId": "pisco-1",
+        "endpoints": {
+            "lcd": [
+                "https://pisco-lcd.terra.dev"
+            ],
+            "fcd": [
+                "https://pisco-fcd.terra.dev"
+            ],
+            "rpc": [
+                "https://pisco-rpc.terra.dev"
+            ]
+        },
+        "prefix": "terra",
+        "governanceToken": "uluna",
+        "operatorPrefix": "terravaloper",
+        "gasPrices": {
+            "fcd": "/v1/txs/gas_prices" 
+        },
+        "taxable": false,
+        "testnet": true
+    }
+}
