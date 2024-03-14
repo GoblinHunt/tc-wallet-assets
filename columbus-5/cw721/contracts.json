@@ -2,10 +2,59 @@
     "terra1sc8tz0delrw32f58nhaxqj4k2gar9thnhlwpzx": {
         "name": "LUNCPenguins",
         "symbol": "LUNCP",
-        "icon": "https://miata.io/assets/img/collection_7.jpg",
-        "homepage": "https://www.luncpenguins.com/",
+        "logo": "https://miata.io/assets/img/collection_7.jpg",
+        "homepage": "https://luncpenguins.com/",
         "markets": [
             "https://miata.io/creators/2/collection/7"
+        ]
+    },
+    "terra17kapqtpk5ajuwsu4jekhp47xlf39ajg8a00s7n": {
+        "name": "MetaGloria Cacti",
+        "symbol": "CACTI",
+        "logo": "https://miata.io/assets/img/collection_4.jpg",
+        "homepage": "https://www.metagloria.io/",
+        "markets": [
+            "https://miata.io/creators/1/collection/4"
+        ]
+    },
+    "terra1z9j74q7d4e4p54mdfr3vjr9j4reg0pusakzzur": {
+        "contract": "terra1z9j74q7d4e4p54mdfr3vjr9j4reg0pusakzzur",
+        "name": "MetaGloria Muji",
+        "symbol": "MUJI",
+        "logo": "https://miata.io/assets/img/collection_1.jpg",
+        "homepage": "https://www.metagloria.io/",
+        "markets": [
+            "https://miata.io/creators/1/collection/1"
+        ]
+    },
+    "terra1ll0mu0uceu63q67ek2puu2t7q7tgc4crk7purq": {
+        "contract": "terra1ll0mu0uceu63q67ek2puu2t7q7tgc4crk7purq",
+        "name": "Luna Burning Knights",
+        "symbol": "LBK",
+        "logo": "https://lunaburningknights.io/icon.png",
+        "homepage": "https://lunaburningknights.io/",
+        "markets": [
+            "https://miata.io/creators/4/collection/9"
+        ]
+    },
+    "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv": {
+        "contract": "terra1qfy2nfr0zh70jyr3h4ns9rzqx4fl8rxpf09ytv",
+        "name": "LunaPunks",
+        "symbol": "LunaPunks",
+        "logo": "https://lunapunks.io/hero.jpg",
+        "homepage": "https://lunapunks.io",
+        "markets": [
+            "https://lunapunks.io/market"
+        ]
+    },
+    "terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p": {
+        "contract": "terra1rk25c0d90mr5jkz2rh2rz6l5sk0f6ppgcuhm8p",
+        "name": "Luna Bugz",
+        "symbol": "Bugz",
+        "logo": "https://ipfs.lunapunks.io/ipfs/QmcYd3ae6wPVgFggasANeaCW895ZMYYxdtzg4hoeTKjhsk/icon.jpg",
+        "homepage": "https://lunabugz.com/",
+        "markets": [
+            "https://launchpad.lunapunks.io/market/1/1"
         ]
     }
 }
