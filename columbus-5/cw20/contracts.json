@@ -12,21 +12,25 @@
         "decimals": 6
     },
     "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp": {
+        "name": "bLuna",
         "symbol": "bLuna",
         "logo": "https://whitelist.anchorprotocol.com/logo/bLUNA.png",
         "decimals": 6
     },
     "terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun": {
+        "name": "bETH",
         "symbol": "bETH",
         "logo": "https://whitelist.anchorprotocol.com/logo/bETH.png",
         "decimals": 6
     },
     "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu": {
+        "name": "aUST",
         "symbol": "aUST",
         "logo": "https://whitelist.anchorprotocol.com/logo/aUST.png",
         "decimals": 6
     },
     "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76": {
+        "name": "Anchor",
         "symbol": "ANC",
         "logo": "https://whitelist.anchorprotocol.com/logo/ANC.png",
         "decimals": 6
@@ -266,6 +270,7 @@
         "decimals": 6
     },
     "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
+        "name": "LOTA",
         "symbol": "LOTA",
         "logo": "https://loterra.io/LOTA.png",
         "decimals": 6
@@ -273,19 +278,19 @@
     "terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7": {
         "symbol": "DPH",
         "name": "Digipharm",
-        "logo": "https://digipharm.io/wp-content/uploads/2021/02/digipharm_etherscan_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1kcthelkax4j9x8d3ny6sdag0qmxxynl3qtcrpy": {
         "symbol": "MINE",
         "name": "Pylon MINE Token",
-        "logo": "https://assets.pylon.rocks/logo/MINE.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1zsaswh926ey8qa5x4vj93kzzlfnef0pstuca0y": {
         "symbol": "bPsiDP-24m",
         "name": "Pylon bDP Token for Gateway Psi 24m Pool",
-        "logo": "https://assets.pylon.rocks/logo/bPsiDP.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1s5eczhe0h0jutf46re52x5z4r03c8hupacxmdr": {
@@ -297,13 +302,13 @@
     "terra1nef5jf6c7js9x6gkntlehgywvjlpytm7pcgkn4": {
         "symbol": "LOOPC",
         "name": "LOOPC token",
-        "logo": "https://dex.loop.markets/loopc.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1jx4lmmke2srcvpjeereetc9hgegp4g5j0p9r2q": {
         "symbol": "LOOPRC",
         "name": "LOOPRC token",
-        "logo": "https://dex.loop.markets/looprc.png",
+        "logo": "",
         "decimals": 6
     },
     "terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n": {
@@ -315,13 +320,13 @@
     "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6": {
         "symbol": "TWD",
         "name": "TWD Token",
-        "logo": "https://terraoffice.world/twd_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1kvjscdgwuvwc6uzm4rqfjl6nlmuhj28tequlnc": {
         "symbol": "XTRA",
         "name": "xterra Token",
-        "logo": "https://terraworld.me/assets/XTRA.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63": {
@@ -333,55 +338,55 @@
     "terra12897djskt9rge8dtmm86w654g7kzckkd698608": {
         "symbol": "Psi",
         "name": "Nexus Governance Token",
-        "logo": "https://terra.nexusprotocol.app/assets/psi.png",
+        "logo": "",
         "decimals": 6
     },
     "terra10f2mt82kjnkxqj2gepgwl637u2w4ue2z5nhz5j": {
         "symbol": "nLuna",
         "name": "Nexus nLuna Token",
-        "logo": "https://terra.nexusprotocol.app/nLuna.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra178v546c407pdnx5rer3hu8s2c0fc924k74ymnn": {
         "symbol": "nETH",
         "name": "Nexus nETH Token",
-        "logo": "https://terra.nexusprotocol.app/nEth.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1u553zk43jd4rwzc53qrdrq4jc2p8rextyq09dj": {
         "symbol": "cnLuna",
         "name": "nLuna autocompounder share representation",
-        "logo": "https://terra.nexusprotocol.app/cnLuna.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1nagqpmyw55yjphea4rhntlfv87ugmeaj8ym756": {
         "symbol": "cnETH",
         "name": "nETH autocompounder share representation",
-        "logo": "https://terra.nexusprotocol.app/cnETH.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra13k62n0285wj8ug0ngcgpf7dgnkzqeu279tz636": {
         "symbol": "nAVAX",
         "name": "Nexus nAVAX Token",
-        "logo": "https://terra.nexusprotocol.app/nAVAX.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1jtdc6zpf95tvh9peuaxwp3v0yqszcnwl8j5ade": {
         "symbol": "nATOM",
         "name": "Nexus nATOM Token",
-        "logo": "https://terra.nexusprotocol.app/nATOM.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1dy9kmlm4anr92e42mrkjwzyvfqwz66un00rwr5": {
         "symbol": "VKRC",
         "name": "VKRC Token",
-        "logo": "https://classic-app.valkyrieprotocol.com/icon_vkr.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1mddcdx0ujx89f38gu7zspk2r2ffdl5enyz2u03": {
         "symbol": "ORION",
         "name": "Orion Money (Portal)",
-        "logo": "https://orion.money/assets/ORION-LOGO-2.1-GREEN@256x256.png",
+        "logo": "",
         "decimals": 8
     },
     "terra1r5506ckw5tfr3z52jwlek8vg9sn3yflrqrzfsc": {
@@ -525,7 +530,7 @@
     "terra193c42lfwmlkasvcw22l9qqzc5q2dx208tkd7wl": {
         "symbol": "BTL",
         "name": "Bitlocus Token",
-        "logo": "https://bitlocus.com/assets/btl-token.png",
+        "logo": "",
         "decimals": 6
     },
     "terra17y9qkl8dfkeg4py7n0g5407emqnemc3yqk5rup": {
@@ -549,31 +554,31 @@
     "terra1u2k0nkenw0p25ljsr4ksh7rxm65y466vkdewwj": {
         "symbol": "TFLOKI",
         "name": "TFLOKI",
-        "logo": "https://terrafloki.io/terrafloki_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1a8k3jyv3wf6k3zngza5h6srrxcckdf7zv90p6u": {
         "symbol": "TFTIC",
         "name": "TFLOKI Genesis Ticket",
-        "logo": "https://terrafloki.io/ticket_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1xt9fgu7965kgvunnjts9zkprd8986kcc444q86": {
         "symbol": "TFTICII",
         "name": "TFLOKI New World Ticket",
-        "logo": "https://terrafloki.io/ticket2_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1vte2xv7dr8sfnrnwdf9arcyprqgr0hty5ads28": {
         "symbol": "TFTICIII",
         "name": "TFLOKI Aviator Ticket",
-        "logo": "https://terrafloki.io/ticket3_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1hmxxq0y8h79f3228vs0czc4uz5jdgjt0appp26": {
         "symbol": "MOON",
         "name": "Moon Token",
-        "logo": "https://moon.gl/logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1xj49zyqrwpv5k928jwfpfy2ha668nwdgkwlrg3": {
@@ -585,7 +590,7 @@
     "terra14lpnyzc9z4g3ugr4lhm8s4nle0tq8vcltkhzh7": {
         "symbol": "xASTROC",
         "name": "Staked Astroport Classic Token",
-        "logo": "https://app.astroport.fi/tokens/xAstro.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq": {
@@ -609,37 +614,37 @@
     "terra14vz4v8adanzph278xyeggll4tfww7teh0xtw2y": {
         "symbol": "TNS",
         "name": "Terra Name Service",
-        "logo": "https://tns.money/static/images/tns.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1td743l5k5cmfy7tqq202g7vkmdvq35q48u2jfm": {
         "symbol": "XRUNE",
         "name": "Thorstarter",
-        "logo": "https://thorstarter.org/static/img/src/favicon.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1366wmr8t8rrkh6mag8fagqxntmf2qe4kyte784": {
         "symbol": "aLOT",
         "name": "Alpha Pack Token",
-        "logo": "https://ipfs.playlot.io/icon/profile-logo.png",
+        "logo": "",
         "decimals": 0
     },
     "terra1z09gnzufuflz6ckd9k0u456l9dnpgsynu0yyhe": {
         "symbol": "SITY",
         "name": "CurioSITY play to earn token",
-        "logo": "https://www.curio.art/img/logo.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra13zx49nk8wjavedjzu8xkk95r3t0ta43c9ptul7": {
         "symbol": "GLOW",
         "name": "Glow Token",
-        "logo": "https://glowyield.com/assets/img/icons/glow.png",
+        "logo": "",
         "decimals": 6
     },
     "terra100yeqvww74h4yaejj6h733thgcafdaukjtw397": {
         "symbol": "APOLLO",
         "name": "Apollo DAO Token",
-        "logo": "https://finder.extraterrestrial.money/images/APOLLO60.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1a7ye2splpfzyenu0yrdu8t83uzgusx2malkc7u": {
@@ -651,7 +656,7 @@
     "terra1y3d5qexmyac0fg53pfglh2pjk0664ymfvcq9mc": {
         "symbol": "whGTPS",
         "name": "Global Transaction Payment Solu",
-        "logo": "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/32x32coinlogo.png?ver=1640952410118",
+        "logo": "",
         "decimals": 8
     },
     "terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw": {
@@ -687,7 +692,7 @@
     "terra13fs83g5atgjwuh7c5ydzh6n7gecel6xyhhy2t5": {
         "symbol": "CDE",
         "name": "CAPITRADE TOKEN",
-        "logo": "https://raw.githubusercontent.com/Lotaxgizmo/images/57f862e3c2a68708775dae5f962885f2ed309b2d/ICON%20COLOURED%404x%201.png",
+        "logo": "",
         "decimals": 9
     },
     "terra1rl20t79ffsrqfa29rke48tj05gj9jxumm92vg8": {
@@ -723,7 +728,7 @@
     "terra1vchw83qt25j89zqwdpmdzj722sqxthnckqzxxp": {
         "symbol": "LOCAL",
         "name": "LOCAL Token",
-        "logo": "https://localterra.money/local-logo-dark.png",
+        "logo": "",
         "decimals": 6
     },
     "terra15k5r9r8dl8r7xlr29pry8a9w7sghehcnv5mgp6": {
@@ -735,13 +740,13 @@
     "terra1f62tqesptvmhtzr8sudru00gsdtdz24srgm7wp": {
         "symbol": "ROBO",
         "name": "RoboHero",
-        "logo": "https://robohero.io/assets/token.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1vwz7t30q76s7xx6qgtxdqnu6vpr3ak3vw62ygk": {
         "symbol": "LUART",
         "name": "Luart Token",
-        "logo": "https://cdn.luart.io/logos/luart-logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n": {
@@ -837,25 +842,25 @@
     "terra15zvyhmv6gwddht7kt4q6w5nasn4tcpgzcdfmgr": {
         "symbol": "GTPS",
         "name": "Global Transaction Payment Solut",
-        "logo": "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/225x225GTPS.png?ver=1649021019248",
+        "logo": "",
         "decimals": 18
     },
     "terra15pkdjxv2ewjzn9x665y26pfz2h6ymak4d4e8se": {
         "symbol": "GFI",
         "name": "Gtps.Finance",
-        "logo": "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/GtpsFinance225x225.png?ver=1649021019248",
+        "logo": "",
         "decimals": 18
     },
     "terra1fyjsxx73jrufw8ufgtuswa773dvdkny92k70wa": {
         "symbol": "ULC",
         "name": "Ultimatalioniscoin",
-        "logo": "https://img1.wsimg.com/blobby/go/f561f953-0bdd-48bf-a39b-982ecbd1698b/downloads/Ultimatalioniscoin225x225.png?ver=1649021019249",
+        "logo": "",
         "decimals": 18
     },
     "terra1689ys6p6gfu0q6xrjqkzfn80sdyhurjqn0jfdl": {
         "symbol": "SST",
         "name": "Sooah Studio Token",
-        "logo": "https://sooahphoto.co.kr/icon/logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1rg8f993m9834afwazersesgx7jjxv4p87q9wvc": {
@@ -999,19 +1004,19 @@
     "terra18zqcnl83z98tf6lly37gghm7238k7lh79u4z9a": {
         "symbol": "bATOM",
         "name": "Bonded ATOM",
-        "logo": "https://files.pstake.finance/logos/bAssets/bATOM.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra128pe5jpempxu0nws5lw28se9zknhsr78626cpn": {
         "symbol": "webATOM",
         "name": "pStake Bonded ATOM (Wormhole)",
-        "logo": "https://files.pstake.finance/logos/bAssets/bATOM_Wormhole.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1laczhlpxlgmrwr9un9ds74qxd2fj4754nf82dn": {
         "symbol": "WCOIN",
         "name": "Willisch Coin",
-        "logo": "https://www.willisch.finance/images/icons/wcoin.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1thhm2u93m2stytzynhsxh5h3jrtg540x4punqy": {
@@ -1023,7 +1028,7 @@
     "terra1yeyr6taynkwdl85ppaggr3zr8txhf66cny2ang": {
         "symbol": "KNTC",
         "name": "Kinetic Token",
-        "logo": "https://app.kinetic.money/static/media/logo-kinetic.8c7f1942.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1g53pyke8jtmt4lwvk4yl0xaqc4u0qlsl8dz3ex": {
@@ -1035,7 +1040,7 @@
     "terra1rl4zyexjphwgx6v3ytyljkkc4mrje2pyznaclv": {
         "symbol": "STEAK",
         "name": "Steak Token",
-        "logo": "https://larry.engineer/assets/steak.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1jkkt5638cd5pur0u5jnr2juw0v6hz5d6z8xu8m": {
@@ -1059,7 +1064,7 @@
     "terra1cdc6nlsx0l6jmt3nnx7gxjggf902wge3n2z76k": {
         "symbol": "FURY",
         "name": "FURY",
-        "logo": "https://crytpo11.s3.eu-central-1.amazonaws.com/FANFURY_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra17n223dxpkypc5c48la7aqjvverczg82ga3cr93": {
@@ -1089,25 +1094,25 @@
     "terra1yhlhrea3rgyx2xdnsswsfakn28qa8z7yp5gmhd": {
         "symbol": "orionASTRO",
         "name": "Orion Money xASTRO Derivative Token",
-        "logo": "https://orion.money/assets/orionASTRO-LOGO@256x256.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1j4hwavavmtsafa6zr0npalfz3tk9gf3p4787mp": {
         "symbol": "RETRO",
         "name": "Retrograde",
-        "logo": "https://retrograde.money/retro_logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra16wggm67a34msdxasg2vergm2pt289y7930wv7d": {
         "symbol": "TND",
         "name": "TerrnadoCash",
-        "logo": "https://terrnado.cash/logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1n9k2he20h5vpyn4mgv7pg4pzvw2n3wc4a86v3g": {
         "symbol": "sTND",
         "name": "TerrnadoCash",
-        "logo": "https://terrnado.cash/stnd_logo.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1ezz5xply2v3xdyv32gy5tcd7zq4k235q4xtzwe": {
@@ -1117,6 +1122,7 @@
         "decimals": 9
     },
     "terra1mpq5zkkm39nmjrjg9raknpfrfmcfwv0nh0whvn": {
+        "name": "NEB",
         "symbol": "NEB",
         "logo": "https://assets.neb.money/icons/NEB.png",
         "decimals": 6
@@ -1208,7 +1214,7 @@
     "terra1vsyyg4rs483uzd7jzw5fqqlm2q5n2yd37yylfc": {
         "symbol": "BAZ",
         "name": "BAZ",
-        "logo": "https://raw.githubusercontent.com/BAZustc/BAZ-CORE/main/BAZ.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1pkp0pkxp9mtlan7cg0qatu65hmkgyq2342g27g": {
@@ -1250,7 +1256,7 @@
     "terra1x62dfgzrsksyemwuljhw9x0qcxefd3tpp4ued8": {
         "symbol": "DKW",
         "name": "DoKwon",
-        "logo": "https://raw.githubusercontent.com/reglisosa/public/main/data/dokwon.png",
+        "logo": "",
         "decimals": 2
     },
     "terra1e6snk4pn5y5t4c3qpy6y6aumhlqagzp9dem96zkg92dm4r57lm4s343nnd": {
