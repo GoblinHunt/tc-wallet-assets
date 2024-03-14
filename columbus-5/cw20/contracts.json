@@ -1299,12 +1299,21 @@
         "symbol": "TRIT",
         "name": "Terra Tritium Token",
         "logo": "https://raw.githubusercontent.com/terra-tritium/assets/main/trit.png",
-        "decimals": 6
+        "decimals": 6,
+        "markets": {
+            "Terraswap": "https://app-classic.terraswap.io/pairs/terra1rdm4u439w8lery29m5dv5z6w7raea0gvt29qefqhr37n5n4yhphsxlqpwc",
+            "Terraport": "https://terraport.finance/",
+            "CoinInn": "https://www.coininn.com/coin/TRIT",
+            "PancakeSwap": "https://pancakeswap.finance/swap?outputCurrency=0x44846e92Dd01e3Fe8f84a9A33D555b2AeE862EDB"
+        }
     },
     "terra107s9c27aj08rgcwwuxmyzapz66xu9u7c66urypy9v8mzurqh87pst4yv8t": {
         "symbol": "KNGT",
         "name": "Knights Gaming Token",
         "logo": "https://lunaburningknights.io/kngt-logo.png",
-        "decimals": 6
+        "decimals": 6,
+        "markets": {
+            "Order Book": "https://play.lunaburningknights.io/market"
+        }
     }
 }
