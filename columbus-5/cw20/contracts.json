@@ -3,6 +3,6 @@
         "name": "GARUDAX TOKEN",
         "symbol": "GRDX",
         "decimals": 6,
-        "logo": "GRDX.jpg"
+        "logo": "https://wallet-assets.terra-classic.io/columbus-5/cw20/logos/GRDX.png"
     }
 }
