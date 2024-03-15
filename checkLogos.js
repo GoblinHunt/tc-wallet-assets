@@ -1,22 +1,16 @@
 const fs = require('fs');
-const path = require('path');
 const axios = require('axios').default;
-const glob = require('glob');
+const { glob } = require('glob');
 
 const checkUrls = async () => {
   let ret = 0;
-  glob("{*/cw20/contracts.json,*/cw721/contracts.json,*/native/tokens.json}", async (err, files) => {
-    if (err) {
-      console.error(err);
-      process.exit(1);
-    }
-
+  return glob("{*/cw20/contracts.json,*/cw721/contracts.json,*/native/tokens.json}").then(async (files) => {
     for (const file of files) {
       const content = fs.readFileSync(file);
       const json = JSON.parse(content);
       const logos = new Set();
 
-      json.forEach(item => {
+      Object.values(json).forEach(item => {
         if (item.logo && item.logo !== "") {
           logos.add(item.logo);
         }
@@ -24,7 +18,7 @@ const checkUrls = async () => {
 
       for (const logoUrl of logos) {
         try {
-          const response = await axios.get(logoUrl, { responseType: 'stream' });
+          const response = await axios.get(logoUrl, { responseType: 'stream', timeout: 1000 });
           const contentType = response.headers['content-type'];
           if (response.status < 400 && (contentType.startsWith('image/'))) {
             console.log(`${file} - ${logoUrl}: OK`);
@@ -40,7 +34,12 @@ const checkUrls = async () => {
     }
 
     process.exit(ret);
+  }).catch((e) => {
+    console.log('Error', e);
+    process.exit(1);
   });
 };
 
-checkUrls();
+checkUrls().then(
+  console.log('done')
+);
