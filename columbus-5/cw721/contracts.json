@@ -70,5 +70,14 @@
         "markets": [
             "https://www.bigbangx.io/collection/abd6c47f-d470-11ee-8f4f-96000267e405"
         ]
+    },
+    "terra19wz8gw49hp0myv7fnzuwhfaml684pcn7falsk0": {
+        "name": "The Alliance",
+        "symbol": "AFL",
+        "logo": "https://ibb.co/5TtXzpf",
+        "homepage": "https://bigbangx.io/air-force-lunc",
+        "markets": [
+            "https://miata.io/creators/16/collection/59"
+        ]
     }
 }
