@@ -32,6 +32,13 @@ jobs:
               exit 1
             fi
           done
+      
+      - name: Install dependencies for URL check
+        run: npm install axios glob
+
+      - name: Validate logo URLs in JSON files
+        run: node checkLogos.js
+
       - name: deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
