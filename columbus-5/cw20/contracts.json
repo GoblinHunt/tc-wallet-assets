@@ -272,7 +272,7 @@
     "terra1ez46kxtulsdv07538fh5ra5xj8l68mu8eg24vr": {
         "name": "LOTA",
         "symbol": "LOTA",
-        "logo": "https://loterra.io/LOTA.png",
+        "logo": "",
         "decimals": 6
     },
     "terra17jnhankdfl8vyzj6vejt7ag8uz0cjc9crkl2h7": {
@@ -314,7 +314,7 @@
     "terra13xujxcrc9dqft4p9a8ls0w3j0xnzm6y2uvve8n": {
         "symbol": "STT",
         "name": "StarTerra Token",
-        "logo": "https://starterra.io/assets/100x100_starterra.png",
+        "logo": "",
         "decimals": 6
     },
     "terra19djkaepjjswucys4npd5ltaxgsntl7jf0xz7w6": {
@@ -332,7 +332,7 @@
     "terra1vtr50tw0pgqpes34zqu60n554p9x4950wk8f63": {
         "symbol": "MIAW",
         "name": "MIAW Token",
-        "logo": "https://www.miaw-trader.com/logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra12897djskt9rge8dtmm86w654g7kzckkd698608": {
@@ -596,7 +596,7 @@
     "terra1w8kvd6cqpsthupsk4l0clwnmek4l3zr7c84kwq": {
         "symbol": "HALO",
         "name": "Angel Protocol Token",
-        "logo": "https://angelprotocol.io/favicon.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1kdfsdm3c4reun9j3m4mk3nmyw4a4ns7mj24q3j": {
@@ -662,7 +662,7 @@
     "terra1dh9478k2qvqhqeajhn75a2a7dsnf74y5ukregw": {
         "symbol": "PRISM",
         "name": "Prism Protocol Token",
-        "logo": "https://home.prismprotocol.app/prism.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1l0y8yg0s86x299nqw0p6fhh7ngex3r4phtjeuq": {
@@ -686,7 +686,7 @@
     "terra1042wzrwg2uk6jqxjm34ysqquyr9esdgm5qyswz": {
         "symbol": "xPRISM",
         "name": "Prism Governance Token",
-        "logo": "https://home.prismprotocol.app/xprism.png",
+        "logo": "",
         "decimals": 6
     },
     "terra13fs83g5atgjwuh7c5ydzh6n7gecel6xyhhy2t5": {
@@ -704,25 +704,25 @@
     "terra13zaagrrrxj47qjwczsczujlvnnntde7fdt0mau": {
         "symbol": "cLuna",
         "name": "Prism cLuna Token",
-        "logo": "https://home.prismprotocol.app/cluna.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1tlgelulz9pdkhls6uglfn5lmxarx7f2gxtdzh2": {
         "symbol": "pLuna",
         "name": "Prism pLuna Token",
-        "logo": "https://home.prismprotocol.app/pluna.png",
+        "logo": "",
         "decimals": 6
     },
     "terra17wkadg0tah554r35x6wvff0y5s7ve8npcjfuhz": {
         "symbol": "yLuna",
         "name": "Prism yLuna Token",
-        "logo": "https://home.prismprotocol.app/yluna.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1cl7whtrqmz5ldr553q69qahck8xvk80fm33qjx": {
         "symbol": "ATLO",
         "name": "Atlo Token",
-        "logo": "https://assets.atlo.app/images/atlo-logo.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1vchw83qt25j89zqwdpmdzj722sqxthnckqzxxp": {
@@ -752,31 +752,31 @@
     "terra12hgwnpupflfpuual532wgrxu2gjp0tcagzgx4n": {
         "symbol": "MARS",
         "name": "Mars Token",
-        "logo": "https://marsprotocol.io/MARSTokenMini.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1a04v570f9cxp49mk06vjsm8axsswndpwwt67k4": {
         "symbol": "XMARS",
         "name": "xMars Token",
-        "logo": "https://marsprotocol.io/xMARSTokenMini.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1vpws4hmpmpsqwnz3gljn8zj42rv7rkpc5atgt4": {
         "symbol": "DFIAT",
         "name": "DeFiato",
-        "logo": "https://defiato-public.s3.ap-southeast-1.amazonaws.com/defiato-logo-small.jpeg",
+        "logo": "",
         "decimals": 8
     },
     "terra1hppnw4jppmrzzga4yvd8s87y3dwkhe27xwwl5d": {
         "symbol": "CERES",
         "name": "Ceres Governance Token",
-        "logo": "https://cloudflare-ipfs.com/ipfs/QmVeSBHDtJYFd6yKSdFghRRsj4jXHdm81rmCUEdLHDK928?filename=ceres.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1z3e2e4jpk4n0xzzwlkgcfvc95pc5ldq0xcny58": {
         "symbol": "wasAVAX",
         "name": "BENQI Staked AVAX (Portal)",
-        "logo": "https://benqi.fi/images/assets/savax.svg",
+        "logo": "",
         "decimals": 8
     },
     "terra1zd6let0zg0xjn2sestagxv4ax24a4ml6j40qdr": {
@@ -830,13 +830,13 @@
     "terra1mt2ytlrxhvd5c4d4fshxxs3zcus3fkdmuv4mk2": {
         "symbol": "BRO",
         "name": "BRO token",
-        "logo": "https://brokkr.finance/static/BRO/Bro-Token-64.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra1qryq5wreecx2wd3cdtzz94syr4z0a92l60asds": {
         "symbol": "bBRO",
         "name": "bBRO token",
-        "logo": "https://brokkr.finance/static/bBRO/bBro-Token-64.svg",
+        "logo": "",
         "decimals": 6
     },
     "terra15zvyhmv6gwddht7kt4q6w5nasn4tcpgzcdfmgr": {
@@ -1082,7 +1082,7 @@
     "terra1948uvsah8aw40dhsa9mhl3htq8lraj0smlh77g": {
         "symbol": "SB",
         "name": "DragonSB",
-        "logo": "https://dragonsb.finance/img/image2/SB.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1rz964297kvt86rteajhtp4hsffhcum0ye8eljh": {
@@ -1124,7 +1124,7 @@
     "terra1mpq5zkkm39nmjrjg9raknpfrfmcfwv0nh0whvn": {
         "name": "NEB",
         "symbol": "NEB",
-        "logo": "https://assets.neb.money/icons/NEB.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1c00vskhyzdv0z63z2tyetzx2qma67n2z3vzyn0": {
@@ -1184,13 +1184,13 @@
     "terra102cjx95xvww7cl9l6usxltk75ww3mpxtyw4lpm": {
         "symbol": "TUNA",
         "name": "Tuna Money",
-        "logo": "https://tuna.money/content/images/2022/06/icon-2.png",
+        "logo": "",
         "decimals": 6
     },
     "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3": {
         "symbol": "cLUNA",
         "name": "cLUNA",
-        "logo": "https://home.prismprotocol.app/cluna.png",
+        "logo": "",
         "decimals": 6
     },
     "terra1hjyl8ymsd9sn59kx733aka4rxfelf43pw6fjjf": {
@@ -1232,7 +1232,7 @@
     "terra1g9carn4sdnlv2uw2u4uelqpf8lun9zwymhuf70": {
         "symbol": "LPRT",
         "name": "LunaPunks Remint Token",
-        "logo": "https://ipfs.lunapunks.io/ipfs/QmQmSwJEgPAWQNPR9S6cLc3cSKT3k16e44ZC7bUxuD7ERd",
+        "logo": "",
         "decimals": 0
     },
     "terra1rdqy74e080e96qhk5gntnr882awm4pfc7t6dn4": {
