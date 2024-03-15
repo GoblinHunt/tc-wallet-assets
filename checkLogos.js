@@ -18,7 +18,7 @@ const checkUrls = async () => {
 
       for (const logoUrl of logos) {
         try {
-          const response = await axios.get(logoUrl, { responseType: 'stream', timeout: 1000 });
+          const response = await axios.get(logoUrl, { responseType: 'stream', timeout: 10000 });
           const contentType = response.headers['content-type'];
           if (response.status < 400 && (contentType.startsWith('image/'))) {
             console.log(`${file} - ${logoUrl}: OK`);
