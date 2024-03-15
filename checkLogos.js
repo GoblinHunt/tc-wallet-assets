@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const axios = require('axios');
+const axios = require('axios').default;
 const glob = require('glob');
 
 const checkUrls = async () => {
@@ -24,20 +24,21 @@ const checkUrls = async () => {
 
       for (const logoUrl of logos) {
         try {
-          const response = await axios.head(logoUrl);
-          if (response.status >= 400) {
-            console.error(`${file} - ${logoUrl}: FAIL`);
-            ret = 1;
-          } else {
+          const response = await axios.get(logoUrl, { responseType: 'stream' });
+          const contentType = response.headers['content-type'];
+          if (response.status < 400 && (contentType.startsWith('image/'))) {
             console.log(`${file} - ${logoUrl}: OK`);
+          } else {
+            console.error(`${file} - ${logoUrl}: FAIL (Not an image)`);
+            ret = 1;
           }
         } catch (error) {
-          console.error(`${file} - ${logoUrl}: FAIL`);
+          console.error(`${file} - ${logoUrl}: FAIL (Request failed)`);
           ret = 1;
         }
       }
     }
-    // Exiting with 0 (success) or 1 (failure) based on URL checks
+
     process.exit(ret);
   });
 };
