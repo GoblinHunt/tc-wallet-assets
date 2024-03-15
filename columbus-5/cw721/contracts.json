@@ -52,5 +52,32 @@
         "markets": [
             "https://launchpad.lunapunks.io/market/1/1"
         ]
+    },
+    "terra1j7h8v7sdppru5gl67y05h2jvh5xa0g9rmylfs8vf7xaa8l8anwxqmh0aew": {
+        "name": "Lunc Zombies-Commandos",
+        "symbol": "LUNC Zombie",
+        "logo": "https://ibb.co/2dhdF4d",
+        "homepage": "http://frgtoken.tech/",
+        "markets": [
+            "https://miata.io/creators/42/collection/124"
+        ]
+    },
+    "terra1tcjpzlq57y0une3e65e4j7z6yj9ev08xtw362gghskv54vtcx48sl4l22q": {
+        "name": "CANDY KID",
+        "symbol": "LUNCCANDY",
+        "logo": "https://ibb.co/VY8pZ0b",
+        "homepage": "https://lunccandy.tech/",
+        "markets": [
+            "https://www.bigbangx.io/collection/abd6c47f-d470-11ee-8f4f-96000267e405"
+        ]
+    },
+    "terra19wz8gw49hp0myv7fnzuwhfaml684pcn7falsk0": {
+        "name": "The Alliance",
+        "symbol": "AFL",
+        "logo": "https://ibb.co/5TtXzpf",
+        "homepage": "https://bigbangx.io/air-force-lunc",
+        "markets": [
+            "https://miata.io/creators/16/collection/59"
+        ]
     }
 }
