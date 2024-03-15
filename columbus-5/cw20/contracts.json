@@ -1321,5 +1321,11 @@
         "markets": {
             "Order Book": "https://play.lunaburningknights.io/market"
         }
+    },
+    "terra14rfnhc2aru7jp304lht3yf903necsnrt4cxd464cftsfcksw0rtsgundnt": {
+        "symbol": "FRG",
+        "name": "FRG TOKEN",
+        "logo": "https://ibb.co/MBNvLFf",
+        "decimals": 6
     }
 }
