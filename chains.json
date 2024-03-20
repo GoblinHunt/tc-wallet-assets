@@ -21,7 +21,12 @@
         },
         "legacy": true,
         "taxable": true,
-        "testnet": false
+        "testnet": false,
+        "explorer": {
+            "address": "https://finder.terra.money/columbus-5/address/{address}",
+            "tx": "https://finder.terra.money/columbus-5/tx/{txHash}",
+            "validator": "https://finder.terra.money/columbus-5/validator/{validator}"
+        }
     },
     "rebel-2": {
         "inheritChain": "columbus-5",
@@ -38,7 +43,8 @@
                 "https://rpc.luncblaze.com"
             ]
         },
-        "testnet": true
+        "testnet": true,
+        "explorer": null
     },
     "octagon-1": {
         "inheritChain": "columbus-5",
@@ -55,7 +61,8 @@
                 "https://rpc.terra-classic.hexxagon.dev"
             ]
         },
-        "testnet": true
+        "testnet": true,
+        "explorer": null
     },
     "phoenix-1": {
         "name": "Terra V2",
@@ -79,7 +86,12 @@
         },
         "legacy": false,
         "taxable": false,
-        "testnet": false
+        "testnet": false,
+        "explorer": {
+            "address": "https://finder.terra.money/{chainId}/address/{address}",
+            "tx": "https://finder.terra.money/{chainId}/tx/{txHash}",
+            "validator": "https://finder.terra.money/{chainId}/validator/{validator}"
+        }
     },
     "pisco-1": {
         "inheritChain": "phoenix-1",
