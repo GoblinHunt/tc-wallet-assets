@@ -39,14 +39,14 @@
         },
         "asset_two": {
             "denom": "ibc/0471F1C4E7AFD3F07702BEF6DC365268D64570F7C1FDC98EA6098DD6DE59817B",
-            "type": "native"
+            "type": "ibc"
         },
         "contract": "terra148aftrdwxstyrea9k5jcee5pn2u6skrscfchm3t85wy22x772rtqwu7xxq"
     },
     {
         "asset_one": {
             "denom": "ibc/386A4031D68DE6370B85F9FF7E89CEF8DE7CDE01CC193CBD87BD3ED60F6662CE",
-            "type": "native"
+            "type": "ibc"
         },
         "asset_two": {
             "denom": "terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp",
@@ -57,7 +57,7 @@
     {
         "asset_one": {
             "denom": "ibc/E1E3674A0E4E1EF9C69646F9AF8D9497173821826074622D831BAB73CCB99A2D",
-            "type": "native"
+            "type": "ibc"
         },
         "asset_two": {
             "denom": "terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp",
@@ -72,7 +72,7 @@
         },
         "asset_two": {
             "denom": "ibc/F4B1551A3470D93A725460F109FB57990702B703790D8A21C7DC66AEF3BACBF4",
-            "type": "native"
+            "type": "ibc"
         },
         "contract": "terra1rcru7mepr4dd44upzcaxaz4wgmza6mfdy5x72xc2kpqznnqru2zsx24yur"
     },
