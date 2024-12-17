@@ -1474,5 +1474,11 @@
         "name": "Sonic(k) Token",
         "logo": "https://swap.sonikchain.com/sonic32.png",
         "decimals": 6
-    }   
+    },
+    "terra1syz36q23ga0g22vw5g9wnswqret35zg0mxhgv6vhhtyr8lh3jlcqhyz907": {
+        "symbol": "ADDVOW",
+        "name": "ADDVOW",
+        "logo": "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
+        "decimals": 6
+    }
 }
