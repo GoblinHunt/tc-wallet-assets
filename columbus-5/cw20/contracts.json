@@ -1480,5 +1480,11 @@
         "name": "ADDVOW",
         "logo": "https://i.ibb.co.com/1Gm86jt/addvow.jpg",
         "decimals": 6
+    },
+    "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz": {
+        "symbol": "ALPHA LUNC UNIVERSE",
+        "name": "ALPHA",
+        "logo": "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+        "decimals": 6
     }
 }

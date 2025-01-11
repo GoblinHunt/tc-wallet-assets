@@ -395,5 +395,27 @@
         "type": "native"
     },
     "contract": "terra1x0j6wy5fkhj8jsn3ls6atd6w8x867qlwkg9h8nnx62ft8r565cusyah6xm"
+},
+{
+    "asset_one": {
+        "denom": "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        "type": "cw20"
+    },
+    "asset_two": {
+        "denom": "uluna",
+        "type": "native"
+    },
+    "contract": "terra12u7khzrzn05a73xkpq6a5zrcazz2xmqn7lvupmqmca06pgcyt5qsa9e7p6"
+},
+{
+    "asset_one": {
+        "denom": "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz",
+        "type": "cw20"
+    },
+    "asset_two": {
+        "denom": "uusd",
+        "type": "native"
+    },
+    "contract": "terra1jg2vu97ssz2ldn6gztyl4fp9lfdtc23ffr65l4gpvuxw4znkmpxsja5wph"
 }
 ]
