@@ -1482,9 +1482,15 @@
         "decimals": 6
     },
     "terra1x6e64es6yhauhvs3prvpdg2gkqdtfru840wgnhs935x8axr7zxkqzysuxz": {
-        "symbol": "ALPHA LUNC UNIVERSE",
-        "name": "ALPHA",
+        "symbol": "ALPHA",
+        "name": "ALPHA LUNC UNIVERSE",
         "logo": "https://i.ibb.co/3ytCxdy/alpha-130-min.png",
+        "decimals": 6
+    },
+    "terra1wx48f5g06l9qxw8k4gn3200lmseu85vkgangwyn9xdu66mtfsfxq60hkdt": {
+        "symbol": "LCW",
+        "name": "Luna Classic World",
+        "logo": "https://i.ibb.co/nsTbd8sW/IMG-20250315-105959-104.jpg",
         "decimals": 6
     }
 }
