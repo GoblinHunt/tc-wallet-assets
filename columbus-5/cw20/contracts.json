@@ -1244,7 +1244,7 @@
     "terra10sfn80av99qkcx3rdpm4rt9hsguadyra5ewyxr": {
         "symbol": "SON",
         "name": "Sonic Token",
-        "logo": "https://swap.sonikchain.com/sonic32.png",
+        "logo": "https://raw.githubusercontent.com/visux/logos/main/sonic32.png",
         "decimals": 6
     },
     "terra1ex0hjv3wurhj4wgup4jzlzaqj4av6xqd8le4etml7rg9rs207y4s8cdvrp": {
