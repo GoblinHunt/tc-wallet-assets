@@ -45,6 +45,7 @@
                 "https://rpc.luncblaze.com"
             ]
         },
+        "sdkVersion": "sdk53",
         "testnet": true
     },
     "hellnet-1": {
