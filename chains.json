@@ -10,7 +10,7 @@
                 "https://terra-classic-fcd.publicnode.com"
             ],
             "rpc": [
-                "https://terra-classic-rpc.publicnode.com"
+                "https://rpc.miata-ipfs.com"
             ]
         },
         "prefix": "terra",
