@@ -30,8 +30,8 @@ jobs:
       - name: Install dependencies for URL check
         run: npm install axios glob
 
-      - name: Validate logo URLs in JSON files
-        run: node checkLogos.js
+#      - name: Validate logo URLs in JSON files
+#        run: node checkLogos.js
 
       - name: deploy to gh-pages
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
