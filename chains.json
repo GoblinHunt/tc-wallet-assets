@@ -23,6 +23,7 @@
         },
         "legacy": true,
         "taxable": true,
+        "sdkVersion": "sdk53",
         "testnet": false,
         "explorer": {
             "address": true,
