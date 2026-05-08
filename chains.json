@@ -4,13 +4,13 @@
         "chainId": "columbus-5",
         "endpoints": {
             "lcd": [
-                "https://lcd.miata-ipfs.com"
+                "https://terra-classic-lcd.publicnode.com"
             ],
             "fcd": [
                 "https://terra-classic-fcd.publicnode.com"
             ],
             "rpc": [
-                "https://rpc.miata-ipfs.com"
+                "https://terra-classic-rpc.publicnode.com"
             ]
         },
         "prefix": "terra",
